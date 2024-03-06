@@ -62,6 +62,7 @@ Arrow Right: Move the snake right.
 
 
 
+
 Contributing
 
 If you'd like to contribute to the project, feel free to submit pull requests. Bug reports, suggestions, and feedback are also welcome!
