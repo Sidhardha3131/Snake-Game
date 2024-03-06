@@ -13,8 +13,6 @@ Getting Started
 
 Game Controls
 
-Screenshots
-
 Contributing
 
 License
