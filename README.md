@@ -2,6 +2,7 @@ Snake Game
 
 A simple Snake game implemented in JavaScript, HTML, and CSS.
 
+
 Table of Contents
 
 
